@@ -2,6 +2,8 @@ import java.util.Objects;
 
 public class Bet {
     double bet;
+    int value;
+    double risk;
 
     public Double getBet() {
         return bet;
