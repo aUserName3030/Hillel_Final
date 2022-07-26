@@ -1,4 +1,4 @@
-package ali;
+package lessons.firsttothird.ali;
 
 public class ArrayString {
     public static void main(String[] args) {

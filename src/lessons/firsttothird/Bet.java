@@ -1,3 +1,5 @@
+package lessons.firsttothird;
+
 import java.util.Objects;
 
 public class Bet {
@@ -28,7 +30,7 @@ public class Bet {
 
     @Override
     public String toString() {
-        return "Bet{" +
+        return "lessons.firsttothird.Bet{" +
                 "bet=" + bet +
                 '}';
     }

@@ -1,3 +1,5 @@
+package lessons.firsttothird;
+
 import java.util.ArrayList;
 
 public class Storage {
@@ -9,7 +11,7 @@ public class Storage {
 
     @Override
     public String toString() {
-        return "Storage {" +
+        return "lessons.firsttothird.Storage {" +
                 "bets = " + bets +
                 '}';
     }
