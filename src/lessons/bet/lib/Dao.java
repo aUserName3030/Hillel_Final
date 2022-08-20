@@ -1,4 +1,0 @@
-package lessons.bet.lib;
-
-public @interface Dao {
-}
