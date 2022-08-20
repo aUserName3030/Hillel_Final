@@ -1,4 +1,10 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/scr/lessons/bet/
+scr/lessons/bet/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+out/
